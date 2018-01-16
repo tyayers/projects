@@ -1,0 +1,41 @@
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Bot Application.dll.config
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Bot Application.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Bot Application.pdb
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Autofac.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Chronic.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.Bot.Builder.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.Bot.Connector.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Newtonsoft.Json.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\System.Net.Http.Formatting.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\System.Web.Http.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\System.Web.Http.WebHost.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Autofac.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.Bot.Builder.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.Bot.Connector.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\Newtonsoft.Json.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\System.Net.Http.Formatting.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\System.Web.Http.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\System.Web.Http.WebHost.xml
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\obj\Release\DocBot.csproj.CoreCompileInputs.cache
+C:\git\BotTheDocsProject\DocProcessor\DocBot\obj\Release\Bot Application.dll
+C:\git\BotTheDocsProject\DocProcessor\DocBot\obj\Release\Bot Application.pdb
+C:\git\BotTheDocsProject\DocProcessor\DocBot\obj\Release\DocBot.csprojResolveAssemblyReference.cache

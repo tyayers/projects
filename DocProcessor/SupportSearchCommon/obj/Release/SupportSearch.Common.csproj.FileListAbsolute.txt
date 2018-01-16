@@ -1,0 +1,16 @@
+C:\git2\DocProcessor\SupportSearchCommon\bin\Release\SupportSearch.Common.dll
+C:\git2\DocProcessor\SupportSearchCommon\bin\Release\SupportSearch.Common.pdb
+C:\git2\DocProcessor\SupportSearchCommon\bin\Release\Newtonsoft.Json.dll
+C:\git2\DocProcessor\SupportSearchCommon\bin\Release\Newtonsoft.Json.xml
+C:\git2\DocProcessor\SupportSearchCommon\obj\Release\SupportSearch.Common.csprojResolveAssemblyReference.cache
+C:\git2\DocProcessor\SupportSearchCommon\obj\Release\SupportSearch.Common.csproj.CoreCompileInputs.cache
+C:\git2\DocProcessor\SupportSearchCommon\obj\Release\SupportSearch.Common.dll
+C:\git2\DocProcessor\SupportSearchCommon\obj\Release\SupportSearch.Common.pdb
+C:\git\BotTheDocsProject\DocProcessor\SupportSearchCommon\bin\Release\SupportSearch.Common.dll
+C:\git\BotTheDocsProject\DocProcessor\SupportSearchCommon\bin\Release\SupportSearch.Common.pdb
+C:\git\BotTheDocsProject\DocProcessor\SupportSearchCommon\bin\Release\Newtonsoft.Json.dll
+C:\git\BotTheDocsProject\DocProcessor\SupportSearchCommon\bin\Release\Newtonsoft.Json.xml
+C:\git\BotTheDocsProject\DocProcessor\SupportSearchCommon\obj\Release\SupportSearch.Common.csprojResolveAssemblyReference.cache
+C:\git\BotTheDocsProject\DocProcessor\SupportSearchCommon\obj\Release\SupportSearch.Common.csproj.CoreCompileInputs.cache
+C:\git\BotTheDocsProject\DocProcessor\SupportSearchCommon\obj\Release\SupportSearch.Common.dll
+C:\git\BotTheDocsProject\DocProcessor\SupportSearchCommon\obj\Release\SupportSearch.Common.pdb

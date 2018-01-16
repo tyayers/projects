@@ -1,0 +1,13 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurefunctions52975f9a;AccountKey=+LdkvIt1tuw/HNceSt+zpBeGZY8hPB3dhzLVby/tBGquIMrfzI2NQFoD7B5EjJ58ztBBnfwx/NbXx0IjtsdnZg==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "",
+    "SupportDocsConnection": "DefaultEndpointsProtocol=https;AccountName=docsearch;AccountKey=GujcuCTS5tHZF/vDxoT7v4A8odpNcejwkNxcDRA0lYXu8y3inMAlxkLsYp83jTUhSxjx3WwScW8H4MC1EaY6Rg==;EndpointSuffix=core.windows.net",
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=docsearch;AccountKey=GujcuCTS5tHZF/vDxoT7v4A8odpNcejwkNxcDRA0lYXu8y3inMAlxkLsYp83jTUhSxjx3WwScW8H4MC1EaY6Rg==;EndpointSuffix=core.windows.net",
+    "StorageHtmlContainer": "docpage2",
+    "StorageMdContainer": "docmarkdown2",
+    "StorageImageContainer": "docimages",
+    "AzureMLSupportTextKey": "V/xCgpOfOdqxFXt9lTtnu1rzzG991+aOBHPjGAKKvOY2O/Z4x22HsLqG9F4Z5JnDiPOHc/cxpCO+OXxd7WT/GA=="
+  }
+}

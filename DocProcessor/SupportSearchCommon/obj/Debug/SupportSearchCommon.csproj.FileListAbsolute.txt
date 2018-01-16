@@ -1,0 +1,7 @@
+C:\git2\WordParser\SupportSearchCommon\bin\Debug\SupportSearchCommon.dll
+C:\git2\WordParser\SupportSearchCommon\bin\Debug\SupportSearchCommon.pdb
+C:\git2\WordParser\SupportSearchCommon\obj\Debug\SupportSearchCommon.dll
+C:\git2\WordParser\SupportSearchCommon\obj\Debug\SupportSearchCommon.pdb
+C:\git2\WordParser\SupportSearchCommon\bin\Debug\Newtonsoft.Json.dll
+C:\git2\WordParser\SupportSearchCommon\bin\Debug\Newtonsoft.Json.xml
+C:\git2\WordParser\SupportSearchCommon\obj\Debug\SupportSearchCommon.csprojResolveAssemblyReference.cache

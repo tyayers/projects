@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=azurefunctions52975f9a;AccountKey=+LdkvIt1tuw/HNceSt+zpBeGZY8hPB3dhzLVby/tBGquIMrfzI2NQFoD7B5EjJ58ztBBnfwx/NbXx0IjtsdnZg==;EndpointSuffix=core.windows.net",
+    "AzureWebJobsDashboard": "",
+    "SupportDocsConnection": "DefaultEndpointsProtocol=https;AccountName=botthedocs;AccountKey=dWVvJJAvZ0QYVPF2/NHYkR9+SjX6fZEGWP4D50r1v8B1K7202/1/k+lWd+5o9gHlxsmS1lml9ekETXrzhlF8zA==;EndpointSuffix=core.windows.net",
+    "StorageHtmlContainer": "dochtml",
+    "StorageMdContainer": "docmd",
+    "StorageImageContainer": "docimages",
+    "AzureMLSupportTextKey": "V/xCgpOfOdqxFXt9lTtnu1rzzG991+aOBHPjGAKKvOY2O/Z4x22HsLqG9F4Z5JnDiPOHc/cxpCO+OXxd7WT/GA==",
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=botthedocs;AccountKey=dWVvJJAvZ0QYVPF2/NHYkR9+SjX6fZEGWP4D50r1v8B1K7202/1/k+lWd+5o9gHlxsmS1lml9ekETXrzhlF8zA==;EndpointSuffix=core.windows.net",
+    "FilePath": "C:\\Temp\\DocTester"
+  }
+}

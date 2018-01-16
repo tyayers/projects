@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="DocProcessor" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\git2\\DocProcessor\\DocProcessor\\obj\\Debug\\net461\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

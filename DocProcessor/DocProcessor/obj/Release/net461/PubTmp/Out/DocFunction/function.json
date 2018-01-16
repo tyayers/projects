@@ -1,0 +1,14 @@
+{
+  "bindings": [
+    {
+      "type": "blobTrigger",
+      "connection": "SupportDocsConnection",
+      "path": "docs/{name}",
+      "direction": "in",
+      "name": "myBlob"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "..\\bin\\DocProcessor.dll",
+  "entryPoint": "DocProcessor.DocProcessor.Run"
+}
